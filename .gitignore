@@ -1,0 +1,6 @@
+*.txt
+*/*.txt
+deadline24*
+Hash*
+*/*.exe
+*.exe
