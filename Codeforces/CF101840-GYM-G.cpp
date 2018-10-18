@@ -1,3 +1,4 @@
+// AC
 #include "bits/stdc++.h"
 using namespace std;
 #define PI (2*acos(0))
@@ -11,9 +12,7 @@ Case 3: 31096.23444
 
 int main()
 {
-	#ifndef ONLINE_JUDGE
-		freopen("in.txt","r",stdin);
-	#endif
+	freopen("glorious.in","r",stdin);
 	int T;
 	cin>>T;
 	for (int t=1;t<=T;t++)
