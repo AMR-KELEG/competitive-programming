@@ -1,6 +1,8 @@
-*.txt
-*/*.txt
+**/*.txt
+**/*.exe
+**/*.swp
 deadline24*
 Hash*
-*/*.exe
-*.exe
+**/.ipynb_checkpoints/**/*
+**/in.txt
+**/*.in
